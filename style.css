@@ -395,6 +395,17 @@ label .close_btn {
     gap: 50px;
     align-items: center;
     justify-content: space-between;
+}.google-map {
+    padding-bottom: 50%;
+    position: relative;
+}
+
+.google-map iframe {
+    height: 550px;
+    width: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
 }
 .contact_container .contact_form {
     max-width: 65%;
