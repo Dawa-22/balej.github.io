@@ -395,7 +395,8 @@ label .close_btn {
     gap: 50px;
     align-items: center;
     justify-content: space-between;
-}.google-map {
+}
+.google-map {
     padding-bottom: 50%;
     position: relative;
 }
